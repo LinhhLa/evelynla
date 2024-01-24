@@ -4,9 +4,9 @@ Data Analyst
 ------------
 Data analyst with several years of experience in growth strategy and utilizing data to make right decisions in business
 * 🌍  I'm based in Helsinki
-* * ✉️  You can contact me at [lathuylinh.195@gmail.com](mailto:lathuylinh.195@gmail.com)
-* * 🧠  I'm learning PowerBI, Python, R, and SQL
-* * 🤝  I'm open to collaborating on Projects
+* ✉️  You can contact me at [lathuylinh.195@gmail.com](mailto:lathuylinh.195@gmail.com)
+* 🧠  I'm learning PowerBI, Python, R, and SQL
+* 🤝  I'm open to collaborating on Projects
 
 ### Skills
 
