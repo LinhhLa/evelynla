@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "meltflex-3d": {
+      "source": "MeltFlexDevs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/meltflex-3d/SKILL.md",
+      "computedHash": "2cdd88f99b6e6bc250473bf10d17a01c46d4a136621e3ff665f523b6cb468cee"
+    },
+    "meltflex-design": {
+      "source": "MeltFlexDevs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/meltflex-design/SKILL.md",
+      "computedHash": "eab9b592563bfc8ae2ed75c135ca620d5bda0399017409ad912d5997a6f39df6"
+    },
+    "meltflex-embed": {
+      "source": "MeltFlexDevs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/meltflex-embed/SKILL.md",
+      "computedHash": "bec3da8c61a2c48fd09720b7d7110053bfcfe83f99f800140029b79480ffe1b4"
+    },
+    "meltflex-furniture": {
+      "source": "MeltFlexDevs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/meltflex-furniture/SKILL.md",
+      "computedHash": "0db56a0ed9630fa4c3789a24c4bc2b5cfab9db70caad602a530dbde3d5486c6e"
+    }
+  }
+}
